@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: img/creative-business.png
 title: "Creative Business Management System"
 date: 2026
 published: true
