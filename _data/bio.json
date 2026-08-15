@@ -1,26 +1,24 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Amanda Beatty",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "picture": "https://github.com/amandabeatty95.png",
+    "email": "amanda.beatty95.edu",
+    "website": "https://amandabeatty95.github.io",
+    "summary": "I am studying for a Certification in Web Development. I expect to graduate in Summer, 2026.",
+    "location": { "address": "", "postalCode": "40223", "city": "Louisville", "countryCode": "USA", "region": "Kentucky" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "abeatty95", "url": "http://github.com/amandabeatty95" },
+      { "network": "", "username": "", "url": "http://linkedin.com/in/changeme" },
+      { "network": "", "username": "", "url": "http://twitter.com/changeme" },
+      { "network": "", "username": "", "url": "http://instagram.com/changeme" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Web Development" },
+    { "name": "Creative Writing" },
+    { "name": "UI/UX Design" },
+    { "name": "Technology for Writers" },
   ],
   "skills": [
     {
