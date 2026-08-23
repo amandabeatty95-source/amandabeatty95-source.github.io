@@ -3,7 +3,7 @@
     "name": "Amanda Beatty",
     "label": "Student",
     "picture": "https://avatars.githubusercontent.com/u/312721332?v=4",
-    "email": "amanda.beatty95.edu",
+    "email": "amanda.beatty95@gmail.com",
     "website": "https://amandabeatty95.github.io",
     "summary": "I am studying for a Certification in Web Development. I expect to graduate in Summer, 2026.",
     "location": { "address": "", "postalCode": "40223", "city": "Louisville", "countryCode": "USA", "region": "Kentucky" },
@@ -23,91 +23,59 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "HTML", "CSS", "Javascript", "Python", "Flask" ]
     },
     {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "name": "Development Tools",
+      "keywords": [ "Git/GitHub", "Visual Studio Code" ]
+    },
+    {
+      "name": "Web Development",
+      "keywords": [ "Responsive Web Design", "Bootstrap", "RESTful APIs", "Database Design"
+      ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "institution": "Sullivan University, Louisville, KY",
+      "area": "Web Development (expected Fall, 2026)",
+      "studyType": "Certificate",
+      "startDate": "2026-01",
       "endDate": "Present",
-      "courses": [
-      ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Central State Hospital",
+      "position": "Staff Coordinator",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2025-04",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Coordinate employee scheduling and staffing operations in a healthcare environment.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Coordinate schedules for approximately 150 employees across multiple departments",
+        "Manage schedule changes and staffing information using Workday, Visual Staff Scheduler, Microsoft Excel, and Microsoft Teams",
+        "Communicate staffing updates and scheduling needs with employees and management",
+        "Develop and improve processes for organizing and communicating scheduling information"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Central State Hospital",
+      "position": "Guest Relations",
+      "website": "",
+      "startDate": "2022-03",
+      "endDate": "2025-04",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Scheduling family visits with patients",
+        "Organizination and filing employee health and education records",
+        "Assisting with patient discharges"
       ]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
-  ],
+  "volunteer": [],
+
+  "awards": [],
   "references": [
     {
       "name": "Available upon request"
