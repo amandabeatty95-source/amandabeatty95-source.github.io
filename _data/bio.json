@@ -9,7 +9,7 @@
     "location": { "address": "", "postalCode": "40223", "city": "Louisville", "countryCode": "USA", "region": "Kentucky" },
     "profiles": [
       { "network": "github", "username": "abeatty95", "url": "http://github.com/amandabeatty95" },
-      { "network": "", "username": "", "url": "http://linkedin.com/in/changeme" },
+      { "network": "linkedin", "username": "Amanda Beatty", "url": "http://www.linkedin.com/in/amanda-beatty-689658226/" },
       { "network": "", "username": "", "url": "http://twitter.com/changeme" },
       { "network": "", "username": "", "url": "http://instagram.com/changeme" }
     ]
